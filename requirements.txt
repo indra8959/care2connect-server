@@ -4,4 +4,6 @@ pymongo
 requests
 PyJWT
 razorpay
+
 setuptools
+gunicorn
